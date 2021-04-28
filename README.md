@@ -23,14 +23,19 @@ From this analysis, 61% of all projects under the theory category launched over 
 The month of May recorded the highest count of successful campaigns followed by the months of June and July. The chart shows a peak in successful outcomes from April through the month of May.
 The last quarter (Oct – Dec) is characterized by a decline in launched campaigns and a reduction in successful campaigns especially in the month of December.
 
+![alt text](/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+
 ### Analysis of Outcomes Based on Goals
 
 This analysis visualizes the percentage of successful, failed, and canceled plays based on the funding goal amount.
 Projects goals within the range $0- $4,999 recorded the highest success rate compared to the other dollar-amount ranges, while the dollar-amount range of $45,000 to $50,000 recorded the highest failed percentage.
 
+![alt text](/Resources/Outcomes_vs_Goals.png?raw=true)
+
 ### Challenges and Difficulties Encountered
 
 The major challenge encountered in preparing the analysis is too much data on the campaign funding. It would have been much better if a smaller sample of data was used in preparing the analysis.
+Also, applying the countifs formula in determining the dollar per range was a challenge.
 
 ## Results
 
@@ -46,12 +51,14 @@ The major challenge encountered in preparing the analysis is too much data on th
 3. What are some limitations of this dataset?
 
 * One major limitation with the data is that there is not sufficient information to reach a conclusion. 
+* Another limitation is that the analysis is only based on the "plays" subcategory.
+* Determining if the data is an accurate reflection of the outcome or identifying if the data is skewed.
 
 4. What are some other possible tables and/or graphs that we could create?
 
 * Multiple tables and charts can be created with varying dimensions and measure. 
 * We can visualize the outcome based on goals by country to understand the campaign performance by region.
-* We can use Pie charts to see how the various subcategory of Theatre performed. 
+* We can use Pie charts, line graphs, Box plots to see how the various subcategory of Theatre performed. 
 * The number of analysis that can be done are numerous.
 
 **Nnaemeka Enukorah**
